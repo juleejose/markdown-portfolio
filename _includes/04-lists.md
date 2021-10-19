@@ -1,0 +1,3 @@
+- I like to read books. 
+- I like to listen to music.
+- I like to draw and paint. 
