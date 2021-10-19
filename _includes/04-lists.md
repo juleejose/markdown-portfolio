@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+I like to read books. 
+I like to listen to music.
+I like to draw and paint. 
